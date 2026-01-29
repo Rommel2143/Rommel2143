@@ -43,7 +43,7 @@
 ### Databases
 - MySQL
 - MS SQL Server
--MySQLite
+- MySQLite
 
 ### Tools & Concepts
 - Git & GitHub
