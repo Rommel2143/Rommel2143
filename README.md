@@ -62,7 +62,7 @@ Automated item tracking using RFID gates—eliminated manual counting and improv
 🔹 **Cooperative Bank System**  
 End-to-end cooperative lending platform with amortization, reporting, and audit logs.
 
-🔹 **Sellfinity (Online Selling System)**  
+🔹 **Sellfinity**  
 automates inventory tracking, product listing, order processing, and payment management, eliminating manual bookkeeping and order tracking.
 
 🔹 **QC Inspection System**  
