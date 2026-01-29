@@ -9,12 +9,15 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rommel2143&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rommel2143&layout=compact&hide_border=true" height="165"/>
 
 </div>
 
 ---
+
+
 
 ## 🧠 About Me
 - 💻 **Experienced VB.NET Developer** specializing in Windows-based systems  
@@ -31,9 +34,16 @@
 - Windows Forms
 - Guna UI Framework
 
+### Still Learning
+- ASP.NET Core MVC
+- Web App Development
+- Mobile Development
+- Arduino
+
 ### Databases
 - MySQL
 - MS SQL Server
+-MySQLite
 
 ### Tools & Concepts
 - Git & GitHub
@@ -41,31 +51,33 @@
 - Role-Based Access Control (RBAC)
 - Secure Authentication & Password Encryption
 - Clean Architecture & Modular Design
+- Object-Oriented Programming (OOP)
 
 ---
 
 ## 📌 Featured Projects
-🔹 **RFID Inventory System**  
+🔹 **RFID-Based Inventory System**  
 Automated item tracking using RFID gates—eliminated manual counting and improved accuracy.
 
-🔹 **Loan Management System**  
+🔹 **Cooperative Bank System**  
 End-to-end cooperative lending platform with amortization, reporting, and audit logs.
+
+🔹 **Sellfinity (Online Selling System)**  
+automates inventory tracking, product listing, order processing, and payment management, eliminating manual bookkeeping and order tracking.
 
 🔹 **QC Inspection System**  
 Manufacturing inspection workflow with pass/fail analytics and traceability.
 
-🔹 **Mold Monitoring System**  
-Real-time mold availability and repair tracking to reduce downtime.
 
 ---
 
 ## 📊 Development Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rommel2143&hide_border=true" />
 </p>
 
----
 
+---
 ## 🏆 Highlights
 - 🥇 Solo Developer on enterprise-level systems
 - 🧱 Built scalable, maintainable, production-ready apps
@@ -75,9 +87,8 @@ Real-time mold availability and repair tracking to reduce downtime.
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: linkedin.com/in/yourprofile  
-- 🗂️ Portfolio: (optional)
+- 📧 Email: rommelmagnaye2143@gmail.com
+- 💼 LinkedIn: linkedin.com/in/rommelmagnaye-rcm2143  
 
 ---
 
