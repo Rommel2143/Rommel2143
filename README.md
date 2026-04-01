@@ -9,10 +9,6 @@
 
 ---
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rommel2143&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rommel2143&layout=compact&hide_border=true" height="165"/>
-
 </div>
 
 ---
@@ -20,7 +16,7 @@
 
 
 ## 🧠 About Me
-- 💻 **Experienced VB.NET Developer** specializing in Windows-based systems  
+- 💻 **.NET Developer** specializing in Windows and Web systems  
 - 🧩 Designed, developed, and deployed **40+ production-ready applications**
 - 👤 **One-man development team** (analysis → UI → backend → deployment)
 - 🏭 Strong background in **manufacturing, inventory, QC, and loan systems**
@@ -29,29 +25,13 @@
 
 ## 🛠️ Tech Stack
 ### Languages & Frameworks
-- VB.NET (Primary)
-- C# (Secondary)
-- Windows Forms
-- Guna UI Framework
-
-### Still Learning
+- C# (Primary)
+- VB.NET (Secondary)
 - ASP.NET Core MVC
-- Web App Development
-- Mobile Development
+- Dapper
+- Entity Framework
 - Arduino
-
-### Databases
-- MySQL
-- MS SQL Server
-- MySQLite
-
-### Tools & Concepts
-- Git & GitHub
-- RFID & QR Code Integration
-- Role-Based Access Control (RBAC)
-- Secure Authentication & Password Encryption
-- Clean Architecture & Modular Design
-- Object-Oriented Programming (OOP)
+  
 
 ---
 
