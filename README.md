@@ -4,7 +4,7 @@
 
 ### VB.NET Developer | Windows Systems | Database-Driven Applications
 
-🚀 Solo Developer • 40+ Systems Built • 90% VB.NET  
+🚀 Solo Developer • 40+ Systems Built
 📍 Philippines
 
 ---
@@ -27,7 +27,7 @@
 ### Languages & Frameworks
 - C# (Primary)
 - VB.NET (Secondary)
-- ASP.NET Core MVC
+- ASP.NET Core
 - Dapper
 - Entity Framework
 - Arduino
