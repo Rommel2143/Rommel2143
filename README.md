@@ -1,75 +1,50 @@
 <div align="center">
 
-# 👋 Hi, I’m Rommel Magnaye
+# Hi, I’m Rommel Magnaye
 
-### VB.NET Developer | Windows Systems | Database-Driven Applications
+### .NET Developer | Windows & Database Systems
 
-🚀 Solo Developer • 40+ Systems Built
 📍 Philippines
-
----
 
 </div>
 
 ---
 
-
-
-## 🧠 About Me
-- 💻 **.NET Developer** specializing in Windows and Web systems  
-- 🧩 Designed, developed, and deployed **40+ production-ready applications**
-- 👤 **One-man development team** (analysis → UI → backend → deployment)
-- 🏭 Strong background in **manufacturing, inventory, QC, and loan systems**
+## About Me
+- .NET developer focused on Windows and web applications
+- Built and deployed 40+ systems
+- Experienced in inventory, manufacturing, QC, and loan systems
+- Handles development from planning to deployment
 
 ---
 
-## 🛠️ Tech Stack
-### Languages & Frameworks
-- C# (Primary)
-- VB.NET (Secondary)
+## Tech Stack
+- C#
+- VB.NET
 - ASP.NET Core
 - Dapper
 - Entity Framework
 - Arduino
-  
 
 ---
 
-## 📌 Featured Projects
-🔹 **RFID-Based Inventory System**  
-Automated item tracking using RFID gates—eliminated manual counting and improved accuracy.
-
-🔹 **Cooperative Bank System**  
-End-to-end cooperative lending platform with amortization, reporting, and audit logs.
-
-🔹 **Sellfinity**  
-automates inventory tracking, product listing, order processing, and payment management, eliminating manual bookkeeping and order tracking.
-
-🔹 **QC Inspection System**  
-Manufacturing inspection workflow with pass/fail analytics and traceability.
-
+## Featured Projects
+- **RFID Inventory System** — Automated inventory tracking using RFID technology
+- **Cooperative Bank System** — Lending, payments, reporting, and audit management
+- **Sellfinity** — Inventory and order management platform
+- **QC Inspection System** — Inspection workflow with traceability and analytics
 
 ---
 
-## 📊 Development Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rommel2143&hide_border=true" />
-</p>
-
-
----
-## 🏆 Highlights
-- 🥇 Solo Developer on enterprise-level systems
-- 🧱 Built scalable, maintainable, production-ready apps
-- 🔐 Strong focus on security and data integrity
-- 📈 Actively maintaining multiple repositories
+## Highlights
+- Developed multiple production-ready systems
+- Focused on security, reliability, and maintainability
+- Continuously improving and maintaining active projects
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: rommelmagnaye2143@gmail.com
-- 💼 LinkedIn: linkedin.com/in/rommelmagnaye-rcm2143  
+## Contact
+- Email: rommelmagnaye2143@gmail.com
+- LinkedIn: linkedin.com/in/rommelmagnaye-rcm2143
 
----
-
-> *“Turning complex processes into simple, reliable systems.”*
+> “Turning complex processes into simple, reliable systems.”
